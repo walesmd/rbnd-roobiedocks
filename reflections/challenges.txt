@@ -1,0 +1,3 @@
+1. I've been a Web Developer for over 16 years, so I have no real concerns about learning Ruby specifically. Primarily just making sure I have the time to follow through with this program and make learning this language a priority.
+
+2. Ruby allows you to express yourself in so many different ways and very rarely is there "a right way", like in Python. I don't need to worry about my code being the most efficient/optimal way to perform a task - at least to start with.

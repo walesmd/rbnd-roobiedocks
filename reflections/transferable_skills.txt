@@ -1,0 +1,15 @@
+16+ years as a Web Developer with the following technologies
+- PHP
+- Python
+- JavaScript / NodeJS
+- HTML
+- CSS
+- SQL and NoSQL datastores
+
+At the following companies:
+- Udacity
+- Kforce Government Solutions
+- General Dynamics Information Technology
+- US Air Force
+
+All of this is transferable into the Ruby community. :)

@@ -1,0 +1,1 @@
+I played with Ruby a little bit in the past (about 5 years ago), but I never made it through the initial Rails tutorials. I'm excited to add another language and toolkit under my belt. This will help me further market myself as a Web Developer the next time I start looking for a job.
